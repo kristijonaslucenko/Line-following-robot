@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "robot", "robot\robot.cproj", "{8C7BD127-3F1F-49D0-83C1-125DC33EC5FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7BD127-3F1F-49D0-83C1-125DC33EC5FC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8C7BD127-3F1F-49D0-83C1-125DC33EC5FC}.Debug|AVR.Build.0 = Debug|AVR
+		{8C7BD127-3F1F-49D0-83C1-125DC33EC5FC}.Release|AVR.ActiveCfg = Release|AVR
+		{8C7BD127-3F1F-49D0-83C1-125DC33EC5FC}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
